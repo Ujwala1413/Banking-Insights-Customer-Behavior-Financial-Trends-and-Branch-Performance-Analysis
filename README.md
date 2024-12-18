@@ -216,13 +216,19 @@ Maximum Loan Amount:  499987.64
 Minimum Loan Amount:  12196.68
 
 ### xv) Total Balance of all accounts per branch
+![image](https://github.com/user-attachments/assets/3da6d7d4-d82c-4c97-b5b8-343a9542d478)
+
 Branches with the most money i.e B16a, O11r, V18a and Y15a are doing well.
 Branches with less money i.e M20i and R17i.
 
 ### xvi) Balances across different account types per branch
+![image](https://github.com/user-attachments/assets/ae164b96-2f0f-4e04-a929-8d67e9cf458c)
+
 R13n branch having the highest savings account as well as least current accounts as well, whereas N12n has highest current accounts and R17i has least savings account.
 
 ### xvii) Total no. of transactions processed per branch
+![image](https://github.com/user-attachments/assets/1fb4d4a9-bc19-457e-898c-d6e723a681cf)
+
 Branch 2 is the busiest, while Branch 10 is the least busy.
 
 ### xviii) Distribution of transaction types per branch (count)
