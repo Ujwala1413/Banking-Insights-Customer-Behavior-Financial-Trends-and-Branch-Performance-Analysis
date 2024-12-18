@@ -232,7 +232,8 @@ R13n branch having the highest savings account as well as least current accounts
 Branch 2 is the busiest, while Branch 10 is the least busy.
 
 ### xviii) Distribution of transaction types per branch (count)
-![image](https://github.com/user-attachments/assets/73ad0cc3-9d7f-45f7-b20a-2165c9df1e3d)
+![image](https://github.com/user-attachments/assets/a6960773-98a7-4f02-9aa4-3a737e995260)
+
 
 
 
