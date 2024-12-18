@@ -169,6 +169,8 @@ Branch "Y15a" has the most money, while "B16a" has the least.
 The data reveals that Branch 5 has the highest customer balance, while Branch 2 has the lowest.
 
 ### iv) Current and Savings Account Per Branch
+![image](https://github.com/user-attachments/assets/cdfc971a-2d81-4811-a970-0da57a20c79c)
+
 Branch 10 has the highest number of current accounts, while Branch 3 has the highest number of savings accounts. 
 
 ### v) Analysing difference between Highest and Lowest Balance in each Branch
