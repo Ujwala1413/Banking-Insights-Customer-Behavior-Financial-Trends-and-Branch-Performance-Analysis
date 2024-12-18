@@ -161,6 +161,29 @@ To establish relationships and combine relevant data across multiple tables, the
 
 6. Accounts & Transactions: To integrate account details with transaction history.
 
+# QUICK INSIGHTS:
+i) Total Unique Customers: 645 Nos.
+
+ii) Total Balance: 1.68 Cr
+
+iii) Currently Active Customers: 49.2%
+
+iv) Average Loan Amount: 2.5 lakhs
+
+v) Maximum Loan Amount: 5 lakhs
+
+vi) Minimum Loan Amount: 12k
+
+vii) Maximum Interest Rate: 9.98%
+
+viii) Minimum Interest Rate: 5% 
+
+ix) Savings Account: 63.25%
+
+x) Current Account: 36.75%
+
+xi) Customers who had taken more than 1 loan: 66 Nos.
+
 # RESULTS AND FINDINGS:
 ### i) Customer Distribution Across Branches
 ![image](https://github.com/user-attachments/assets/1db042eb-6aa0-483f-88e3-5b1a03dbffcd)
