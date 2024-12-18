@@ -174,6 +174,8 @@ The data reveals that Branch 5 has the highest customer balance, while Branch 2 
 Branch 10 has the highest number of current accounts, while Branch 3 has the highest number of savings accounts. 
 
 ### v) Analysing difference between Highest and Lowest Balance in each Branch
+![image](https://github.com/user-attachments/assets/4f03c85a-0458-4bcd-a146-f2c9540a2fc7)
+
 There's a significant difference between the highest and lowest balances across branches. 
 This suggests that some branches are performing better than others in terms of customer spending and account balances.
 
