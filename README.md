@@ -190,6 +190,8 @@ Branches N12n, O11r, and V18a are consistently among the top performers in terms
 There are still bottlenecks in the "Pending" with 32.4% and "Under Review" with 31.4% stages.
 
 ### viii) Type of Loans customers are perferring most
+![image](https://github.com/user-attachments/assets/d7bf1241-4429-4527-80f2-6cb03b4f03a8)
+
 Customers are mostly preffering Home loan followed by personal loan.
 
 ### ix) Highest & Lowest Interest Rate as per loan type
