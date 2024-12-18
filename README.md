@@ -185,6 +185,7 @@ Customers are mostly preffering Home loan followed by personal loan.
 ![image](https://github.com/user-attachments/assets/7a710a14-3b57-439d-ae81-3ea04f503d95)
 
 ### xi) Highest and Lowest interest rate for active and closed loan.
+![image](https://github.com/user-attachments/assets/6eadc03a-fa13-41fb-99a7-7d42f43a8ba0)
 
 
 
