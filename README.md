@@ -200,6 +200,8 @@ Customers are mostly preffering Home loan followed by personal loan.
 ![image](https://github.com/user-attachments/assets/6eadc03a-fa13-41fb-99a7-7d42f43a8ba0)
 
 ### xii) Number of Customers having Active loan status
+![image](https://github.com/user-attachments/assets/e715dcfb-4083-4451-94ee-ea1ea7dfd3cc)
+
 Most people have active home loans, followed by personal loans and then auto loans.
 
 ### xiii) Customers having more than 1 loan currently
