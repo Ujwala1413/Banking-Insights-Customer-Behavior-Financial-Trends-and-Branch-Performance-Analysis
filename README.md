@@ -153,5 +153,10 @@ To establish relationships and combine relevant data across multiple tables, the
 6. Accounts & Transactions: To integrate account details with transaction history.
 
 # RESULTS AND FINDINGS:
+### i) Customer Distribution Across Branches
+![image](https://github.com/user-attachments/assets/e2314f73-bb07-477e-844f-67be8cc63bb4)
+
+### ii) Highest & Lowest Balance analysis per Branch of the customer
+
 
 
