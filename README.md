@@ -243,6 +243,33 @@ Branch 2 is the busiest, while Branch 10 is the least busy.
 ### xviii) Distribution of transaction types per branch (count)
 ![image](https://github.com/user-attachments/assets/a6960773-98a7-4f02-9aa4-3a737e995260)
 
+## RECOMMENDATION:
+### 1. Customer Retention: 
+Focus on top-performing branches (N12n, O11r,V18a) by offering personalized services and exclusive benefits.
+ 
+### 2. Branch Improvement: 
+Investigate underperforming branches like M20i, R17i, and Branch 10 to attract more customers.
+ 
+### 3. Loan Promotion: 
+Enhance home loan deals and create packages for customers with multiple loans.
+ 
+### 4. Balance Optimization: 
+Prioritize branches with significant balance gaps and develop customized solutions for low-balance branches.
+ 
+### 5. Service Quality: 
+Streamline pending cases, train employees for customer guidance, and ensure improved customer communication for a better overall experience.
+
+## RISK ANALYSIS:
+1. Customers_id 721, 835, 384 with multiple loans having “Pending”& "Under Review" KYC status are indeed a concern.
+This could indicate a lack of proper identity verification, potentially leading to fraud or default.
+
+2. It’s important to have its income, debt to income ratio and date in transaction data to ensure complete and trustworthy process of repayment.
+   
+3. Customer_id 835: has a low balance 7832.6 but has taken multiple loans, including a home loan and an auto loan, with relatively high-interest rates.
+This could suggest potential financial distress or predatory lending practices.
+
+4. Customers_id 809 and 702 have a history of frequent withdrawals, which could indicate potential misuse of funds or financial instability.
+
 
 
 
