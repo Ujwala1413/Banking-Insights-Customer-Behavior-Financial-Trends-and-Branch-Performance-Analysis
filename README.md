@@ -187,6 +187,29 @@ Customers are mostly preffering Home loan followed by personal loan.
 ### xi) Highest and Lowest interest rate for active and closed loan.
 ![image](https://github.com/user-attachments/assets/6eadc03a-fa13-41fb-99a7-7d42f43a8ba0)
 
+### xii) Number of Customers having Active loan status
+Most people have active home loans, followed by personal loans and then auto loans.
+
+### xiii) Customers having more than 1 loan currently
+The number of customer having more than 1 loan is:  66
+
+### xiv) Maximum & Minimum Loan Amount
+Maximum Loan Amount:  499987.64
+Minimum Loan Amount:  12196.68
+
+### xv) Total Balance of all accounts per branch
+Branches with the most money i.e B16a, O11r, V18a and Y15a are doing well.
+Branches with less money i.e M20i and R17i.
+
+### xvi) Balances across different account types per branch
+R13n branch having the highest savings account as well as least current accounts as well, whereas N12n has highest current accounts and R17i has least savings account.
+
+### xvii) Total no. of transactions processed per branch
+Branch 2 is the busiest, while Branch 10 is the least busy.
+
+### xviii) Distribution of transaction types per branch (count)
+
+
 
 
 
