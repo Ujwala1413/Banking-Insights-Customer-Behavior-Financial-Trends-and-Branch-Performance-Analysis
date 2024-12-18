@@ -185,6 +185,8 @@ This suggests that some branches are performing better than others in terms of c
 Branches N12n, O11r, and V18a are consistently among the top performers in terms of customer base, account numbers, and maximum balance. This indicates their strong performance across key metrics.
 
 ### vii) KYC Status of Customers
+![image](https://github.com/user-attachments/assets/e715dcfb-4083-4451-94ee-ea1ea7dfd3cc)
+
 There are still bottlenecks in the "Pending" with 32.4% and "Under Review" with 31.4% stages.
 
 ### viii) Type of Loans customers are perferring most
@@ -200,7 +202,7 @@ Customers are mostly preffering Home loan followed by personal loan.
 ![image](https://github.com/user-attachments/assets/6eadc03a-fa13-41fb-99a7-7d42f43a8ba0)
 
 ### xii) Number of Customers having Active loan status
-![image](https://github.com/user-attachments/assets/e715dcfb-4083-4451-94ee-ea1ea7dfd3cc)
+
 
 Most people have active home loans, followed by personal loans and then auto loans.
 
