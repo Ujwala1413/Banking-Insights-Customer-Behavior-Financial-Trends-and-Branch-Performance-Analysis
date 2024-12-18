@@ -155,14 +155,17 @@ To establish relationships and combine relevant data across multiple tables, the
 # RESULTS AND FINDINGS:
 ### i) Customer Distribution Across Branches
 ![image](https://github.com/user-attachments/assets/1db042eb-6aa0-483f-88e3-5b1a03dbffcd)
+
 Branch N12n & O11r has most customer count showing more satisfaction as compared to M20i.
 
 ### ii) Highest & Lowest Balance analysis per Branch of the customer
 ![image](https://github.com/user-attachments/assets/329f3640-8968-4f53-b638-01f2daf9840d)
+
 Branch "Y15a" has the most money, while "B16a" has the least.
 
 ### iii) Customer with highest & lowest balance in each branch
 ![image](https://github.com/user-attachments/assets/39aa3bc5-2fca-48a4-83de-0f071ecf79fe)
+
 The data reveals that Branch 5 has the highest customer balance, while Branch 2 has the lowest.
 
 ### iv) Current and Savings Account Per Branch
