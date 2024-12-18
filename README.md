@@ -25,6 +25,15 @@ The data for this project was sourced from 7 different CSV files, which were lat
 2. Data Visualization: Matplotlib
 3. Database Connectivity: MySQL-Connector-Python, PyODBC, SQLite3
 
+# Database Connection and Integration:
+1. Established a connection between MySQL Workbench and Python using libraries such as mysql-connector-python, pyodbc, and sqlite3.
+   
+2. Connected to the Finance Project Database in MySQL.
+   
+3. Converted raw CSV files (Accounts, Branches, Customers, KYC, Loans, Payments, and Transactions) into SQL dump files for structured storage and efficient querying.
+
+4. Imported these SQL dump files into the Finance Project Database, creating a unified and accessible database for further analysis.
+
 # DATA UNDERSTANDING:
 ## **Data Description**
 The dataset consists of multiple files containing detailed information about the bank's operations and customers. The key data files include:
