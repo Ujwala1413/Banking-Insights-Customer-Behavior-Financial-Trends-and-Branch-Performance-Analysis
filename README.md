@@ -180,6 +180,8 @@ There's a significant difference between the highest and lowest balances across 
 This suggests that some branches are performing better than others in terms of customer spending and account balances.
 
 ### vi) Well Performing Branches
+![image](https://github.com/user-attachments/assets/25299675-53fc-4e1d-85cd-0d2dc6b2307e)
+
 Branches N12n, O11r, and V18a are consistently among the top performers in terms of customer base, account numbers, and maximum balance. This indicates their strong performance across key metrics.
 
 ### vii) KYC Status of Customers
