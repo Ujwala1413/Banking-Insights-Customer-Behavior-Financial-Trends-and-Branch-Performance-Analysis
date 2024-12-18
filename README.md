@@ -154,6 +154,7 @@ To establish relationships and combine relevant data across multiple tables, the
 
 # RESULTS AND FINDINGS:
 ### i) Customer Distribution Across Branches
+![image](https://github.com/user-attachments/assets/1db042eb-6aa0-483f-88e3-5b1a03dbffcd)
 Branch N12n & O11r has most customer count showing more satisfaction as compared to M20i.
 
 ### ii) Highest & Lowest Balance analysis per Branch of the customer
