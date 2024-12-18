@@ -181,5 +181,8 @@ Customers are mostly preffering Home loan followed by personal loan.
 ### ix) Highest & Lowest Interest Rate as per loan type
 ![image](https://github.com/user-attachments/assets/2c59ee27-5299-4bd9-82db-f4ad99dff5b8)
 
+### x) Loan status of customers
+
+
 
 
