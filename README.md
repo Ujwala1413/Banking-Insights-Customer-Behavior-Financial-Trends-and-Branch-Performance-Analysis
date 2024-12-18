@@ -162,6 +162,7 @@ Branch N12n & O11r has most customer count showing more satisfaction as compared
 Branch "Y15a" has the most money, while "B16a" has the least.
 
 ### iii) Customer with highest & lowest balance in each branch
+![image](https://github.com/user-attachments/assets/39aa3bc5-2fca-48a4-83de-0f071ecf79fe)
 The data reveals that Branch 5 has the highest customer balance, while Branch 2 has the lowest.
 
 ### iv) Current and Savings Account Per Branch
