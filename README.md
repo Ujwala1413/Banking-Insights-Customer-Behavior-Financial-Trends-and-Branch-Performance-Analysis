@@ -172,6 +172,14 @@ This suggests that some branches are performing better than others in terms of c
 ### vi) Well Performing Branches
 Branches N12n, O11r, and V18a are consistently among the top performers in terms of customer base, account numbers, and maximum balance. This indicates their strong performance across key metrics.
 
+### vii) KYC Status of Customers
+There are still bottlenecks in the "Pending" with 32.4% and "Under Review" with 31.4% stages.
+
+### viii) Type of Loans customers are perferring most
+Customers are mostly preffering Home loan followed by personal loan.
+
+### ix) Highest & Lowest Interest Rate as per loan type
+
 
 
 
