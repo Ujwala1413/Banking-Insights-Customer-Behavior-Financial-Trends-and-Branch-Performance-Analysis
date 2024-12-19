@@ -1,5 +1,5 @@
 # PROJECT TITLE: 
-# Banking Insights :Customer-Behavior-Financial-Trends-and-Branch-Performance-Analysis
+# Unlocking the Secrets of Banking Data
 This project analyzes customer behavior, financial trends, and branch performance using transaction data. Key insights include branch-specific performance, account preferences, loan patterns, and actionable strategies to enhance customer satisfaction and profitability.
 ![image](https://github.com/user-attachments/assets/6d197bea-ff8e-4742-88d4-2f617f2f35b8)
 
