@@ -39,7 +39,6 @@ The data for this project was sourced from 7 different CSV files, which were lat
 
 # Database Connection and Integration:
 1. Established a connection between MySQL Workbench and Python using libraries such as mysql-connector-python, pyodbc, and sqlite3.
-![image](https://github.com/user-attachments/assets/ca0a92b6-6e5c-4231-a779-b581c3bc3cfa)
  
 2. Connected to the Finance Project Database in MySQL.
 ![image](https://github.com/user-attachments/assets/ec17b0b6-f192-4f6b-bd21-79882173e12a)
