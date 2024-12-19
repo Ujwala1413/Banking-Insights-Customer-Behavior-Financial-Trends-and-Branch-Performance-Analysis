@@ -51,12 +51,26 @@ The data for this project was sourced from 7 different CSV files, which were lat
 ## **Data Description**
 The dataset consists of multiple files containing detailed information about the bank's operations and customers. The key data files include:
 1. Accounts: Contains information about customer accounts, including account_id, customer_id, branch_id, account type, and balance [No. of Records: 1054]
+![image](https://github.com/user-attachments/assets/ca0948de-06f7-43c4-b894-4394ca23f67d)
+
 2. Branches: Includes data about bank branches, such as branch IDs, locations, and branch name. [No. of Records: 10]
+![image](https://github.com/user-attachments/assets/2400b37a-86df-4669-944d-18d5de583a44)
+
 3. Customers: Contains customer demographic information, such as customer_id, first_name, last_name, email, phone, and address. [No. of Records: 1134]
+![image](https://github.com/user-attachments/assets/96d71eb7-d613-4867-a66a-f98e7591fb0f)
+
 4. KYC: Stores Know Your Customer (KYC) details for each customer, including kyc_id, customer_id, adhar_number, and kyc_status. [No. of Records: 500]
+![image](https://github.com/user-attachments/assets/b6603b0f-f733-487e-8cca-ba9edcc8b764)
+
 5. Loans: Provides information on the types of loans customers have, such as loan_id, customer_id, loan amounts, interest rates, and loan status (active or closed). [No. of Records: 564]
+![image](https://github.com/user-attachments/assets/490cb3bf-a0cb-4f6a-8550-41610fd5b651)
+
 6. Payments: Tracks payment transactions made by customers, including payment_id, loan_id, and payment amounts. [No. of Records: 2000]
+![image](https://github.com/user-attachments/assets/6bb90a45-bfca-41c3-b698-8bdf3c1c4dca)
+
 7. Transactions: Includes transaction details such as transaction ID, amount, and type (debit/credit). [No. of Records: 2061]
+![image](https://github.com/user-attachments/assets/eb157eb4-c48c-4ddf-94fa-b94ff28a16d8)
+
 
 ## **Data Quality Issues**
 ### 1. Accounts: 
