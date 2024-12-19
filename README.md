@@ -38,8 +38,7 @@ The data for this project was sourced from 7 different CSV files, which were lat
 ##### MySQL-Connector-Python, PyODBC, SQLite3
 
 # Database Connection and Integration:
-1. Established a connection between MySQL Workbench and Python using libraries such as mysql-connector-python, pyodbc, and sqlite3.
-2. Connected to the Finance Project Database in MySQL.
+1. Connected to the Finance Project Database using libraries such as mysql-connector-python, pyodbc, and sqlite3.
 ![image](https://github.com/user-attachments/assets/cdd325db-b394-430b-8391-f1012bdcc6d3)
    
 3. Converted raw CSV files (Accounts, Branches, Customers, KYC, Loans, Payments, and Transactions) into SQL dump files for structured storage and efficient querying.
