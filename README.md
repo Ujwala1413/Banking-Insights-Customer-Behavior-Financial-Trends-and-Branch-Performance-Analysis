@@ -5,7 +5,14 @@ This project analyzes customer behavior, financial trends, and branch performanc
 
 # PROJECT OVERVIEW:
 ## **Objective**
-The objective of this project is to identify potential customers for cross-selling financial products, such as loans, credit cards, and savings accounts, by analyzing their financial behavior, account details, and transaction history. This will help the bank offer suitable products to customers, improve sales, and enhance customer satisfaction.
+This project aims to delve into the intricate details of customer behavior, financial trends, and branch performance within the banking sector. By analyzing vast amounts of transaction data, we seek to uncover valuable insights that can drive strategic decision-making and enhance overall business performance.
+
+#### Specifically, we will focus on:
+- Understanding Customer Behavior: Analyzing customer interactions with the bank, including transaction patterns, product usage, and service preferences.
+- Assessing Branch Performance: Evaluating the efficiency and effectiveness of various branches, identifying areas for improvement, and optimizing resource allocation.
+- Identifying Cross-Selling Opportunities: Identifying customers who are likely to be interested in additional products or services, tailoring personalized recommendations to boost sales and customer satisfaction.
+
+Ultimately, this project will empower the bank to make data-driven decisions, enhance customer experiences, and optimize operations for long-term success.
 
 ## **Data Source**
 The data for this project was sourced from 7 different CSV files, which were later converted into SQL dump files for analysis. The files include:
