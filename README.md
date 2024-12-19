@@ -47,33 +47,39 @@ The dataset consists of multiple files containing detailed information about the
 
 ## **Data Quality Issues**
 ### 1. Accounts: 
-Null Values: 33,
-Duplicate values: 43,
-Incorrect datatype: 3 (account_id, customer_id, branch_id)
+- Null Values: 33
+- Duplicate values: 43
+- Incorrect datatype: 3 (account_id, customer_id, branch_id)
+  
 ### 2. Branches:
-No inconsistencies in the data, 
-Data types are also correct.
+- No inconsistencies in the data
+- Data types are also correct.
+- 
 ### 3. Customers:
-Null Values: 50, 
-Duplicates values: 119, 
-Incorrect datatypes: 1 (customer_id), 
-Unnecessary column: 1 (Phone), 
+- Null Values: 50
+- Duplicates values: 119 
+- Incorrect datatypes: 1 (customer_id)
+- Unnecessary column: 1 (Phone)
+  
 ### 4. KYC:
-Null values: 0, 
-Duplicate values: 0, 
-Incorrect datatype: Nill, 
-Unnecessary column: 1 (Adhar_number)
+- Null values: 0
+- Duplicate values: 0 
+- Incorrect datatype: Nill
+- Unnecessary column: 1 (Adhar_number)
+  
 ### 5. Loans:
-Null Values: 48, 
-Duplicate values: 49, 
-Incorrect datatypes: 2 (loan_id, customer_id)
+- Null Values: 48
+- Duplicate values: 49, 
+- Incorrect datatypes: 2 (loan_id, customer_id)
+  
 ### 6. Payments: 
-No inconsistencies in the data, 
-Data types are also correct.
+- No inconsistencies in the data, 
+- Data types are also correct.
+  
 ### 7. Transactions:
-Null values: 0, 
-Duplicate values: 61
-Incorrect datatype: Nill
+- Null values: 0, 
+- Duplicate values: 61
+- Incorrect datatype: Nill
 
 ## **Exploratory Data Analysis (EDA)**
 ### Summary Statistics:
