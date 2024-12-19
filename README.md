@@ -28,9 +28,14 @@ The data for this project was sourced from 7 different CSV files, which were lat
 1. Programming Language: Python
 2. Development Environment: Jupyter Notebook, MySQL Workbench
 ## **Libraries used**
-1. Data Manipulation: NumPy, Pandas
-2. Data Visualization: Matplotlib
-3. Database Connectivity: MySQL-Connector-Python, PyODBC, SQLite3
+1. Data Manipulation: Data manipulation is the process of cleaning, organizing, and transforming raw data into a usable format. It involves tasks like removing errors, formatting data, and combining data sets. By manipulating data, we can uncover valuable insights, make informed decisions, and improve business outcomes.
+##### NumPy, Pandas
+
+2. Data Visualization: Data visualization is the art of representing data in a visual format, such as charts, graphs, and maps. It helps us understand complex data patterns, identify trends, and communicate information effectively. By visualizing data, we can make data-driven decisions and gain valuable insights.
+##### Matplotlib, Seaborn
+
+3. Database Connectivity: Database connectivity with Python involves establishing a connection between a Python program and a database system. This allows us to interact with the database, retrieve data, and perform various operations like querying, inserting, updating, and deleting data. 
+##### MySQL-Connector-Python, PyODBC, SQLite3
 
 # Database Connection and Integration:
 1. Established a connection between MySQL Workbench and Python using libraries such as mysql-connector-python, pyodbc, and sqlite3.
