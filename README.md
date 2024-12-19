@@ -54,7 +54,7 @@ The dataset consists of multiple files containing detailed information about the
 ### 2. Branches:
 - No inconsistencies in the data
 - Data types are also correct.
-- 
+  
 ### 3. Customers:
 - Null Values: 50
 - Duplicates values: 119 
